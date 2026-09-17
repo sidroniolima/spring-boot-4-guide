@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: chapter-03-consumer
+app:
+  greeting:
+    enabled: true
+    message: Hi

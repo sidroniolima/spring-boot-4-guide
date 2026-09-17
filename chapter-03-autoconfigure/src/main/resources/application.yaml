@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: chapter-03-autoconfigure
