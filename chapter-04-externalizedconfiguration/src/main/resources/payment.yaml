@@ -1,0 +1,14 @@
+payment:
+  gateway-url: ${PAYMENT_GATEWAY_URL:http://localhost:8080}
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+---
+payment:
+  gateway-url: https://payment.host
+spring:
+  config:
+    activate:
+      on-profile: prod

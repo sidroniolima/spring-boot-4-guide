@@ -19,6 +19,7 @@
     <modules>
         <module>chapter-03-autoconfigure</module>
         <module>chapter-03-consumer</module>
+        <module>chapter-04-externalizedconfiguration</module>
     </modules>
 
     <url/>

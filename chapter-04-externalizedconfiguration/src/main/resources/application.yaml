@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: chapter-04-externalizedconfiguration
+  config:
+    import:
+      - classpath:payment.yaml
+      - classpath:email.yaml

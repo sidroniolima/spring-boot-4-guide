@@ -1,0 +1,17 @@
+email:
+  features:
+    enabled: true
+    custom: false
+spring:
+  config:
+    activate:
+      on-profile: dev
+---
+email:
+  features:
+    enabled: false
+    custom: false
+spring:
+  config:
+    activate:
+      on-profile: prod
