@@ -10,10 +10,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>chapter-04-externalizedconfiguration</artifactId>
+    <artifactId>chapter-03-externalizedconfiguration</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chapter-04-externalizedconfiguration</name>
-    <description>chapter-04-externalizedconfiguration</description>
+    <name>chapter-03-externalizedconfiguration</name>
+    <description>chapter-03-externalizedconfiguration</description>
 
     <url/>
     <licenses>

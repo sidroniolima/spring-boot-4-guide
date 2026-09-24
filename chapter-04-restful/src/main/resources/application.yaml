@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: chapter-04-restful
